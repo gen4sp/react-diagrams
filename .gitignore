@@ -6,9 +6,6 @@ demos/demo3/bundle.js
 demos/demo3/bundle.js.map
 demos/demo4/bundle.js
 demos/demo4/bundle.js.map
-dist/
-dist/main.js
-dist/main.js.map
 
 # Created by https://www.gitignore.io/api/net,netbeans,sublimetext,phpstorm,windows,osx,node
 
